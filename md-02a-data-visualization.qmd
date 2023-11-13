@@ -1,6 +1,6 @@
 ---
 title: "Data Visualisation"
-author: "Horace S. Jakpa"
+author: "Horace S Jakpa"
 format:
   html:
     embed-resources: true
